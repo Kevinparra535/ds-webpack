@@ -52,5 +52,13 @@
     "sass": "^1.54.4"
   },
   "author": "Kevin Parra Lopez <kevinparra535@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kevinparra535/ds-webpack.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Kevinparra535/ds-webpack/issues"
+  },
+  "homepage": "https://github.com/Kevinparra535/ds-webpack#readme"
 }
