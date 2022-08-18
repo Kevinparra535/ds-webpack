@@ -16,7 +16,7 @@
 
   // Minifica, comprime y crea la version final
   npm run build
-
+	
 	// Minifica, comprime y crea la version final con un json que te muestra el peso de los archivos
   npm run build:analyze
 
