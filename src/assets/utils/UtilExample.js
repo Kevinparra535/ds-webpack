@@ -4,8 +4,7 @@
  */
 
 const example = async () => {
-  console.log(`%c Helper example`, 'font-weight:bold');
-
+  console.log(`%c Util example`, 'font-weight:bold');
 };
 
 export default example;
