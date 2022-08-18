@@ -19,15 +19,6 @@
 
 	// Minifica, comprime y crea la version final con un json que te muestra el peso de los archivos
   npm run build:analyze
-
-  // Detecta los archivos con problemas
-  npm run format
-
-  // Identa y arregla todos los archivos
-  npm run format:fix
-
-  // Aplica el link a todos los archivos
-  npm run lint
 ```
 
 ## Extensiones

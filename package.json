@@ -8,10 +8,9 @@
     "start": "webpack serve --open --config webpack.config.dev.js",
     "build": "webpack --mode production --config webpack.config.js",
     "build:watch": "webpack --watch --config webpack.config.js",
-    "build:analyze": "webpack --mode production --config webpack.config.js --analyze",
-		"prepare": "husky install"
+    "build:analyze": "webpack --mode production --config webpack.config.js --analyze"
   },
-	"husky": {
+  "husky": {
     "hooks": {
       "pre-commit": "npm test",
       "pre-push": "npm test"
